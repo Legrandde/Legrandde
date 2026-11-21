@@ -1,120 +1,97 @@
-<h1 align="center">Hey, I'm Alhassane Barry 👋</h1>
+<div align="center">
+  <h1>Alhassane Barry</h1>
+  <p><strong>Full Stack Developer · Web, Mobile & IoT</strong></p>
+  <p>
+    Building reliable, low-bandwidth-friendly web, mobile and connected products for West Africa and beyond — from REST APIs and databases to polished interfaces.
+  </p>
 
-<h3 align="center">Full Stack Developer · Web & Mobile · IoT</h3>
-
-<p align="center">
-  I build reliable, user-focused applications — from REST APIs and databases to polished web and mobile interfaces — that solve real problems in West Africa and beyond.
-</p>
-
-<p align="center">
-  <a href="https://barry-jet.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-barry--jet.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
-## About me
-
-- 🎓 Computer engineering student (Licence Génie Informatique) in Dakar, Senegal
-- 💼 Full Stack developer — available for **freelance** projects and collaborations
-- ⚙️ Day to day: **React, TypeScript, NestJS, Django, Laravel** and REST APIs
-- 📱 Cross-platform mobile apps with **React Native & Expo**
-- 📡 Connected devices with **ESP32 & MQTT**
-- 🌍 I build with local context in mind: mobile money, FCFA, low-bandwidth UX
-- 🌱 Currently deepening: system architecture, API security, DevOps, AI integration
+  <p>
+    <a href="https://barry-jet.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-barry--jet.vercel.app-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:YOUR-EMAIL@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Get_in_touch-F59E0B?style=for-the-badge&logo=gmail&logoColor=0F172A" alt="Email" />
+    </a>
+  </p>
+</div>
 
 ---
 
-## Tech stack
+### About
 
-**Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-**Backend**
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-
-**Mobile & IoT**
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
-
-**Databases & Tools**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+- Computer Engineering student (*Licence Génie Informatique*) based in **Dakar, Senegal** — open to **freelance** work and product collaborations.
+- I ship end-to-end systems: typed frontends (**React / TypeScript**), structured backends (**NestJS, Django, Laravel**), mobile apps (**React Native & Expo**), and **ESP32 / MQTT** IoT pipelines.
+- Product mindset tailored to real constraints: **Mobile Money**, **FCFA** workflows, **PWA / offline resilience**, and fast UX on modest connections.
 
 ---
 
-## Featured projects
+### Selected Projects
 
-### ⚡ EcoSystem — Intelligent Energy Management
-Smart energy monitoring for households and small businesses.
-- Real-time consumption data collected by **ESP32** sensors over **MQTT**
-- **Django REST Framework** API with analytics endpoints
-- **React Native** mobile app for live tracking
-- Consumption forecasting with **XGBoost**
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚡ EcoSystem — Smart Energy Management</h4>
+      <p>Real-time energy monitoring and forecasting for households and SMBs.</p>
+      <ul>
+        <li>Live telemetry streamed from <strong>ESP32</strong> sensors over <strong>MQTT</strong></li>
+        <li><strong>Django REST</strong> analytics API + <strong>XGBoost</strong> consumption forecasting</li>
+        <li><strong>React Native</strong> mobile app for live tracking & alerts</li>
+      </ul>
+      <p><code>Python</code> <code>Django REST</code> <code>React Native</code> <code>ESP32</code> <code>MQTT</code> <code>XGBoost</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎓 Tely — Exam Prep E-Learning (PWA)</h4>
+      <p>Installable learning platform helping middle & high school students prepare for national exams (BEPC, BAC).</p>
+      <ul>
+        <li>Structured exercises, past exam papers & step-by-step solutions</li>
+        <li>Role-based spaces for students, teachers & admins</li>
+        <li>Installable <strong>PWA</strong> with dark mode and fast mobile UX</li>
+      </ul>
+      <p><code>React</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>Laravel</code> <code>MySQL</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h4>🛒 B2B Marketplaces & Back-Office Platforms</h4>
+      <p>
+        Production web platforms connecting suppliers and merchants with role-based access control, inventory & order dashboards, and clean database-backed workflows.
+      </p>
+      <p><code>React</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>NestJS</code> <code>Django</code> <code>Laravel</code></p>
+    </td>
+  </tr>
+</table>
 
-`Python` `Django REST` `React Native` `MQTT` `ESP32` `XGBoost`
-
-### 🎓 Tely — E-learning for exam prep
-Learning platform helping students prepare for national exams.
-- Exercises and past exam papers
-- Content organized by subject and level
-- Student-focused, mobile-friendly experience
-
-`React` `TypeScript` `Laravel` `MySQL`
-
-### 🛒 Marketplace & digital platforms
-Business-oriented web apps connecting suppliers and merchants.
-- Authentication and role-based access
-- Admin dashboards and database-driven back offices
-- Responsive UI with Material Design principles
-
-`React` `TypeScript` `Tailwind CSS` `Django` `Laravel`
-
-> 👉 More on my [portfolio](https://barry-jet.vercel.app/) and in my pinned repositories below.
-
----
-
-## GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AlhassaneBarry&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlhassaneBarry&layout=compact&hide_border=true&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AlhassaneBarry&theme=github-dark-blue&hide_border=true" />
+<p align="right">
+  <a href="https://barry-jet.vercel.app/">Explore more projects on my portfolio →</a>
 </p>
 
 ---
 
-## What I'm working toward
+### Tech Stack
 
-- Shipping production-ready web and mobile apps
-- Stronger backend architecture and API security
-- Maintainable, well-tested code
-- Automation, AI integration and DevOps workflows
+| Layer | Technologies |
+| :--- | :--- |
+| **Frontend** | ![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111827?style=flat-square&logo=tailwindcss&logoColor=06B6D4) ![Vite](https://img.shields.io/badge/Vite-111827?style=flat-square&logo=vite&logoColor=A78BFA) |
+| **Backend** | ![NestJS](https://img.shields.io/badge/NestJS-111827?style=flat-square&logo=nestjs&logoColor=E0234E) ![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=339933) ![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB) ![Django](https://img.shields.io/badge/Django-111827?style=flat-square&logo=django&logoColor=44B78B) ![Laravel](https://img.shields.io/badge/Laravel-111827?style=flat-square&logo=laravel&logoColor=FF2D20) |
+| **Mobile & IoT** | ![React Native](https://img.shields.io/badge/React_Native-111827?style=flat-square&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-111827?style=flat-square&logo=expo&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-111827?style=flat-square&logo=espressif&logoColor=E7352C) ![MQTT](https://img.shields.io/badge/MQTT-111827?style=flat-square&logo=mqtt&logoColor=C084FC) |
+| **Data & DevOps** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=60A5FA) ![MySQL](https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=38BDF8) ![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=2496ED) ![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032) |
 
 ---
 
-## Let's work together
-
-Got a project, a collaboration idea, or a freelance need? Reach out — I'm always happy to talk with developers, founders and teams building useful technology.
+### GitHub Overview
 
 <p align="center">
-  <i>"Great software is built through curiosity, consistency, and a commitment to solving real problems."</i>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Legrandde&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F59E0B&icon_color=F59E0B&text_color=E5E7EB&rank_icon=github" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Legrandde&layout=compact&hide_border=true&bg_color=0D1117&title_color=F59E0B&text_color=E5E7EB" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  <strong>Have a project or a freelance need?</strong>
+  <a href="mailto:YOUR-EMAIL@gmail.com">Let's talk</a> ·
+  <a href="https://barry-jet.vercel.app/">barry-jet.vercel.app</a>
 </p>
